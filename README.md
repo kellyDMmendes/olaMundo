@@ -1,2 +1,2 @@
 # Olá, Mundo!
-Primeiro uso de git e Github. 
+Primeiro uso de **Git e Github** e *Markdown*.
